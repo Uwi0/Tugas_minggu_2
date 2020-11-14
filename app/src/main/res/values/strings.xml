@@ -1,0 +1,25 @@
+<resources>
+    <string name="app_name">Tugas2</string>
+    <string name="user_name">User Name</string>
+    <string name="password">Password</string>
+    <string name="button_login">Login</string>
+    <string name="kalkulator_bmi">Kalkulator Bmi</string>
+    <string name="kalkulator_umur">Kalkulator_Umur</string>
+    <string name="Daftar_anggota">Daftar Anggota List</string>
+    <string name="Daftar_anggota2">Daftar Anggota RecyclerView</string>
+    <string name="hasilUmur">hasil</string>
+    <string name="InputUmur">masukkan tahun lahir</string>
+    <string name="proses">Button</string>
+    <string name="jenis_kelamin">masukkan jenis kelamin anda</string>
+    <string name="laki_laki">Laki Laki</string>
+    <string name="perempuan">Perempuan</string>
+    <string name="input_berat">masukkan berat anda</string>
+    <string name="input_tinggi">masukkan tinggi anda</string>
+    <string name="hitung">Hitung</string>
+    <string name="text_list">text</string>
+    <string name="name">Nama</string>
+    <string name="no_hp">No Hp</string>
+    <string name="alamat">alamat</string>
+    <string name="close">Close</string>
+    <string name="tahun_lahir">massukan tahun lahir</string>
+</resources>
